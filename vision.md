@@ -3,7 +3,6 @@ layout: page
 title: Vision
 subtitle: ''
 img_path: "/images/Future Immigration Logo.png"
-published: false
 
 ---
 
