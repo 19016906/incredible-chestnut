@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 2
+    weight: 5
 
 ---
 **Changes in immigration laws**
