@@ -36,5 +36,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- _posts/2019-03-27-2019-03-27-why-fonts-matter.md
