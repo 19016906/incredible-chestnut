@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   main:
-    weight: 6
+    weight: 5
 
 ---
 **Rent**

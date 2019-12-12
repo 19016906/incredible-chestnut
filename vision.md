@@ -5,7 +5,7 @@ subtitle: ''
 img_path: "/images/Future Immigration Logo.png"
 menu:
   main:
-    weight: 2
+    weight: 1
 
 ---
 
