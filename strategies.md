@@ -3,7 +3,6 @@ layout: page
 title: Strategies
 subtitle: ''
 img_path: ''
-published: false
 
 ---
 The main thing to secure my business is business insurance which will cover any damage occurs by fire and any other problems. To serve better, main thing is quality of service which will be best from my side.
