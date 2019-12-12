@@ -24,5 +24,6 @@ fields:
   config:
     required: true
 pages:
+- risk.md
 - strategies.md
 - vision.md
